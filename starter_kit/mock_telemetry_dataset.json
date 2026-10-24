@@ -1,0 +1,4789 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "sampling_interval_seconds": 10,
+    "total_samples": 120
+  },
+  "samples": [
+    {
+      "timestamp": "2026-10-24T10:00:00Z",
+      "step_index": 0,
+      "scenario_phase": "normal_idle",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -151976,
+        "temperature_celsius": 28.1,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 10.4,
+        "user_percent": 7.3,
+        "system_percent": 3.1,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2162,
+        "available_mb": 3982,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 4681,
+        "tx_bytes_delta": 1083
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:00:10Z",
+      "step_index": 1,
+      "scenario_phase": "normal_idle",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -134259,
+        "temperature_celsius": 30.0,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 11.4,
+        "user_percent": 8.0,
+        "system_percent": 3.4,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2122,
+        "available_mb": 4022,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 10698,
+        "tx_bytes_delta": 2240
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:00:20Z",
+      "step_index": 2,
+      "scenario_phase": "normal_idle",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -154753,
+        "temperature_celsius": 28.3,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 4.3,
+        "user_percent": 3.0,
+        "system_percent": 1.3,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2229,
+        "available_mb": 3915,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 10887,
+        "tx_bytes_delta": 620
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:00:30Z",
+      "step_index": 3,
+      "scenario_phase": "normal_idle",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -134287,
+        "temperature_celsius": 30.1,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 9.6,
+        "user_percent": 6.7,
+        "system_percent": 2.9,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2207,
+        "available_mb": 3937,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 4635,
+        "tx_bytes_delta": 2351
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:00:40Z",
+      "step_index": 4,
+      "scenario_phase": "normal_idle",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -169575,
+        "temperature_celsius": 30.4,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 9.9,
+        "user_percent": 6.9,
+        "system_percent": 3.0,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2294,
+        "available_mb": 3850,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 14226,
+        "tx_bytes_delta": 1165
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:00:50Z",
+      "step_index": 5,
+      "scenario_phase": "normal_idle",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -159811,
+        "temperature_celsius": 29.0,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 11.0,
+        "user_percent": 7.7,
+        "system_percent": 3.3,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2155,
+        "available_mb": 3989,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 13533,
+        "tx_bytes_delta": 1890
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:01:00Z",
+      "step_index": 6,
+      "scenario_phase": "normal_idle",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -146474,
+        "temperature_celsius": 29.1,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 5.0,
+        "user_percent": 3.5,
+        "system_percent": 1.5,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2188,
+        "available_mb": 3956,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 10915,
+        "tx_bytes_delta": 1595
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:01:10Z",
+      "step_index": 7,
+      "scenario_phase": "normal_idle",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -134858,
+        "temperature_celsius": 30.2,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 12.1,
+        "user_percent": 8.5,
+        "system_percent": 3.6,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2131,
+        "available_mb": 4013,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 7225,
+        "tx_bytes_delta": 834
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:01:20Z",
+      "step_index": 8,
+      "scenario_phase": "normal_idle",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -146300,
+        "temperature_celsius": 30.5,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 9.5,
+        "user_percent": 6.6,
+        "system_percent": 2.9,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2247,
+        "available_mb": 3897,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 4174,
+        "tx_bytes_delta": 3397
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:01:30Z",
+      "step_index": 9,
+      "scenario_phase": "normal_idle",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -151035,
+        "temperature_celsius": 30.0,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 4.7,
+        "user_percent": 3.3,
+        "system_percent": 1.4,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2120,
+        "available_mb": 4024,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 4838,
+        "tx_bytes_delta": 4061
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:01:40Z",
+      "step_index": 10,
+      "scenario_phase": "normal_idle",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -146091,
+        "temperature_celsius": 28.8,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 5.0,
+        "user_percent": 3.5,
+        "system_percent": 1.5,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2141,
+        "available_mb": 4003,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 7089,
+        "tx_bytes_delta": 1967
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:01:50Z",
+      "step_index": 11,
+      "scenario_phase": "normal_idle",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -165321,
+        "temperature_celsius": 28.8,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 6.1,
+        "user_percent": 4.3,
+        "system_percent": 1.8,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2255,
+        "available_mb": 3889,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 11427,
+        "tx_bytes_delta": 1212
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:02:00Z",
+      "step_index": 12,
+      "scenario_phase": "normal_idle",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -139706,
+        "temperature_celsius": 28.7,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 9.3,
+        "user_percent": 6.5,
+        "system_percent": 2.8,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2197,
+        "available_mb": 3947,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 5446,
+        "tx_bytes_delta": 3133
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:02:10Z",
+      "step_index": 13,
+      "scenario_phase": "normal_idle",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -148748,
+        "temperature_celsius": 28.7,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 10.9,
+        "user_percent": 7.6,
+        "system_percent": 3.3,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2296,
+        "available_mb": 3848,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 13737,
+        "tx_bytes_delta": 741
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:02:20Z",
+      "step_index": 14,
+      "scenario_phase": "normal_idle",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -149327,
+        "temperature_celsius": 28.1,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 6.3,
+        "user_percent": 4.4,
+        "system_percent": 1.9,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2202,
+        "available_mb": 3942,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 5410,
+        "tx_bytes_delta": 783
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:02:30Z",
+      "step_index": 15,
+      "scenario_phase": "normal_idle",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -149378,
+        "temperature_celsius": 30.8,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 6.1,
+        "user_percent": 4.3,
+        "system_percent": 1.8,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2154,
+        "available_mb": 3990,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 11762,
+        "tx_bytes_delta": 2556
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:02:40Z",
+      "step_index": 16,
+      "scenario_phase": "normal_idle",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -139929,
+        "temperature_celsius": 30.7,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 8.0,
+        "user_percent": 5.6,
+        "system_percent": 2.4,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2136,
+        "available_mb": 4008,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 5363,
+        "tx_bytes_delta": 1083
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:02:50Z",
+      "step_index": 17,
+      "scenario_phase": "normal_idle",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -152781,
+        "temperature_celsius": 29.7,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 6.5,
+        "user_percent": 4.5,
+        "system_percent": 1.9,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2291,
+        "available_mb": 3853,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 10601,
+        "tx_bytes_delta": 2266
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:03:00Z",
+      "step_index": 18,
+      "scenario_phase": "normal_idle",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -155627,
+        "temperature_celsius": 29.2,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 13.0,
+        "user_percent": 9.1,
+        "system_percent": 3.9,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2135,
+        "available_mb": 4009,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 9372,
+        "tx_bytes_delta": 2533
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:03:10Z",
+      "step_index": 19,
+      "scenario_phase": "normal_idle",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -162815,
+        "temperature_celsius": 28.1,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 4.9,
+        "user_percent": 3.4,
+        "system_percent": 1.5,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2139,
+        "available_mb": 4005,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 11304,
+        "tx_bytes_delta": 1167
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:03:20Z",
+      "step_index": 20,
+      "scenario_phase": "normal_idle",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -165837,
+        "temperature_celsius": 29.3,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 11.9,
+        "user_percent": 8.3,
+        "system_percent": 3.6,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2198,
+        "available_mb": 3946,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 7276,
+        "tx_bytes_delta": 2952
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:03:30Z",
+      "step_index": 21,
+      "scenario_phase": "normal_idle",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -133744,
+        "temperature_celsius": 29.6,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 14.0,
+        "user_percent": 9.8,
+        "system_percent": 4.2,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2102,
+        "available_mb": 4042,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 12169,
+        "tx_bytes_delta": 3464
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:03:40Z",
+      "step_index": 22,
+      "scenario_phase": "normal_idle",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -152514,
+        "temperature_celsius": 30.7,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 5.1,
+        "user_percent": 3.6,
+        "system_percent": 1.5,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2296,
+        "available_mb": 3848,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 11525,
+        "tx_bytes_delta": 1905
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:03:50Z",
+      "step_index": 23,
+      "scenario_phase": "normal_idle",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -140265,
+        "temperature_celsius": 29.3,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 5.1,
+        "user_percent": 3.6,
+        "system_percent": 1.5,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2100,
+        "available_mb": 4044,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 12854,
+        "tx_bytes_delta": 3459
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:04:00Z",
+      "step_index": 24,
+      "scenario_phase": "normal_idle",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -158292,
+        "temperature_celsius": 29.5,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 6.6,
+        "user_percent": 4.6,
+        "system_percent": 2.0,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2229,
+        "available_mb": 3915,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 2767,
+        "tx_bytes_delta": 4077
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:04:10Z",
+      "step_index": 25,
+      "scenario_phase": "normal_idle",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -136730,
+        "temperature_celsius": 30.5,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 10.3,
+        "user_percent": 7.2,
+        "system_percent": 3.1,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2255,
+        "available_mb": 3889,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 4282,
+        "tx_bytes_delta": 1138
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:04:20Z",
+      "step_index": 26,
+      "scenario_phase": "normal_idle",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -135243,
+        "temperature_celsius": 28.5,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 7.7,
+        "user_percent": 5.4,
+        "system_percent": 2.3,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2100,
+        "available_mb": 4044,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 10837,
+        "tx_bytes_delta": 1839
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:04:30Z",
+      "step_index": 27,
+      "scenario_phase": "normal_idle",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -146212,
+        "temperature_celsius": 28.3,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 8.9,
+        "user_percent": 6.2,
+        "system_percent": 2.7,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2178,
+        "available_mb": 3966,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 4947,
+        "tx_bytes_delta": 749
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:04:40Z",
+      "step_index": 28,
+      "scenario_phase": "normal_idle",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -164839,
+        "temperature_celsius": 29.7,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 6.4,
+        "user_percent": 4.5,
+        "system_percent": 1.9,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2121,
+        "available_mb": 4023,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 13015,
+        "tx_bytes_delta": 2502
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:04:50Z",
+      "step_index": 29,
+      "scenario_phase": "normal_idle",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -135089,
+        "temperature_celsius": 30.9,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 12.2,
+        "user_percent": 8.5,
+        "system_percent": 3.7,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2296,
+        "available_mb": 3848,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 3084,
+        "tx_bytes_delta": 1037
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:05:00Z",
+      "step_index": 30,
+      "scenario_phase": "cpu_stress_anomaly",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -747937,
+        "temperature_celsius": 31.0,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 94.6,
+        "user_percent": 83.2,
+        "system_percent": 11.4,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1800,
+        "frequency_cluster_big_mhz": 2840
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 3569,
+        "available_mb": 2575,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 13685,
+        "tx_bytes_delta": 6322
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": true,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:05:10Z",
+      "step_index": 31,
+      "scenario_phase": "cpu_stress_anomaly",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -764539,
+        "temperature_celsius": 31.6,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 97.7,
+        "user_percent": 86.0,
+        "system_percent": 11.7,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1800,
+        "frequency_cluster_big_mhz": 2840
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 3616,
+        "available_mb": 2528,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 22671,
+        "tx_bytes_delta": 8187
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": true,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:05:20Z",
+      "step_index": 32,
+      "scenario_phase": "cpu_stress_anomaly",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -793635,
+        "temperature_celsius": 32.1,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 95.6,
+        "user_percent": 84.1,
+        "system_percent": 11.5,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1800,
+        "frequency_cluster_big_mhz": 2840
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 3719,
+        "available_mb": 2425,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 18074,
+        "tx_bytes_delta": 7502
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": true,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:05:30Z",
+      "step_index": 33,
+      "scenario_phase": "cpu_stress_anomaly",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -762578,
+        "temperature_celsius": 32.6,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 94.4,
+        "user_percent": 83.1,
+        "system_percent": 11.3,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1800,
+        "frequency_cluster_big_mhz": 2840
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 3929,
+        "available_mb": 2215,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 19794,
+        "tx_bytes_delta": 2991
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": true,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:05:40Z",
+      "step_index": 34,
+      "scenario_phase": "cpu_stress_anomaly",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -811608,
+        "temperature_celsius": 33.2,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 88.6,
+        "user_percent": 78.0,
+        "system_percent": 10.6,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1800,
+        "frequency_cluster_big_mhz": 2840
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 3746,
+        "available_mb": 2398,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 5689,
+        "tx_bytes_delta": 6819
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": true,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:05:50Z",
+      "step_index": 35,
+      "scenario_phase": "cpu_stress_anomaly",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -742872,
+        "temperature_celsius": 33.8,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 93.0,
+        "user_percent": 81.8,
+        "system_percent": 11.2,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1800,
+        "frequency_cluster_big_mhz": 2840
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 3625,
+        "available_mb": 2519,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 5235,
+        "tx_bytes_delta": 2581
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": true,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:06:00Z",
+      "step_index": 36,
+      "scenario_phase": "cpu_stress_anomaly",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -812284,
+        "temperature_celsius": 34.3,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 95.3,
+        "user_percent": 83.9,
+        "system_percent": 11.4,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1800,
+        "frequency_cluster_big_mhz": 2840
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 3634,
+        "available_mb": 2510,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 7208,
+        "tx_bytes_delta": 9417
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": true,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:06:10Z",
+      "step_index": 37,
+      "scenario_phase": "cpu_stress_anomaly",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -776691,
+        "temperature_celsius": 34.9,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 85.5,
+        "user_percent": 75.2,
+        "system_percent": 10.3,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1800,
+        "frequency_cluster_big_mhz": 2840
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 3472,
+        "available_mb": 2672,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 21847,
+        "tx_bytes_delta": 3949
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": true,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:06:20Z",
+      "step_index": 38,
+      "scenario_phase": "cpu_stress_anomaly",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -756376,
+        "temperature_celsius": 35.4,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 89.0,
+        "user_percent": 78.3,
+        "system_percent": 10.7,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1800,
+        "frequency_cluster_big_mhz": 2840
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 3619,
+        "available_mb": 2525,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 22669,
+        "tx_bytes_delta": 3083
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": true,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:06:30Z",
+      "step_index": 39,
+      "scenario_phase": "cpu_stress_anomaly",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -745153,
+        "temperature_celsius": 36.0,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 95.5,
+        "user_percent": 84.0,
+        "system_percent": 11.5,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1800,
+        "frequency_cluster_big_mhz": 2840
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 3990,
+        "available_mb": 2154,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 20488,
+        "tx_bytes_delta": 3990
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": true,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:06:40Z",
+      "step_index": 40,
+      "scenario_phase": "cpu_stress_anomaly",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -766646,
+        "temperature_celsius": 36.5,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 96.4,
+        "user_percent": 84.8,
+        "system_percent": 11.6,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1800,
+        "frequency_cluster_big_mhz": 2840
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 3594,
+        "available_mb": 2550,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 8090,
+        "tx_bytes_delta": 2794
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": true,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:06:50Z",
+      "step_index": 41,
+      "scenario_phase": "cpu_stress_anomaly",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -773562,
+        "temperature_celsius": 37.0,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 94.6,
+        "user_percent": 83.2,
+        "system_percent": 11.4,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1800,
+        "frequency_cluster_big_mhz": 2840
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 3833,
+        "available_mb": 2311,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 18470,
+        "tx_bytes_delta": 5825
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": true,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:07:00Z",
+      "step_index": 42,
+      "scenario_phase": "cpu_stress_anomaly",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -812900,
+        "temperature_celsius": 37.6,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 97.5,
+        "user_percent": 85.8,
+        "system_percent": 11.7,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1800,
+        "frequency_cluster_big_mhz": 2840
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 4089,
+        "available_mb": 2055,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 8224,
+        "tx_bytes_delta": 2496
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": true,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:07:10Z",
+      "step_index": 43,
+      "scenario_phase": "cpu_stress_anomaly",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -775527,
+        "temperature_celsius": 38.1,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 90.8,
+        "user_percent": 79.9,
+        "system_percent": 10.9,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1800,
+        "frequency_cluster_big_mhz": 2840
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 3511,
+        "available_mb": 2633,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 13147,
+        "tx_bytes_delta": 3569
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": true,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:07:20Z",
+      "step_index": 44,
+      "scenario_phase": "cpu_stress_anomaly",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -761200,
+        "temperature_celsius": 38.7,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 87.8,
+        "user_percent": 77.3,
+        "system_percent": 10.5,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1800,
+        "frequency_cluster_big_mhz": 2840
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 3543,
+        "available_mb": 2601,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 18824,
+        "tx_bytes_delta": 3503
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": true,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:07:30Z",
+      "step_index": 45,
+      "scenario_phase": "cpu_stress_anomaly",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -787258,
+        "temperature_celsius": 39.2,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 89.0,
+        "user_percent": 78.3,
+        "system_percent": 10.7,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1800,
+        "frequency_cluster_big_mhz": 2840
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 3477,
+        "available_mb": 2667,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 19520,
+        "tx_bytes_delta": 8619
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": true,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:07:40Z",
+      "step_index": 46,
+      "scenario_phase": "cpu_stress_anomaly",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -747868,
+        "temperature_celsius": 39.8,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 97.5,
+        "user_percent": 85.8,
+        "system_percent": 11.7,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1800,
+        "frequency_cluster_big_mhz": 2840
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 3500,
+        "available_mb": 2644,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 6657,
+        "tx_bytes_delta": 7342
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": true,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:07:50Z",
+      "step_index": 47,
+      "scenario_phase": "cpu_stress_anomaly",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -818066,
+        "temperature_celsius": 40.4,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 99.5,
+        "user_percent": 87.6,
+        "system_percent": 11.9,
+        "thermal_throttling_active": true,
+        "frequency_cluster_little_mhz": 1800,
+        "frequency_cluster_big_mhz": 2840
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 3495,
+        "available_mb": 2649,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 12745,
+        "tx_bytes_delta": 3362
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": true,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:08:00Z",
+      "step_index": 48,
+      "scenario_phase": "cpu_stress_anomaly",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -756908,
+        "temperature_celsius": 40.9,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 90.9,
+        "user_percent": 80.0,
+        "system_percent": 10.9,
+        "thermal_throttling_active": true,
+        "frequency_cluster_little_mhz": 1800,
+        "frequency_cluster_big_mhz": 2840
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 3618,
+        "available_mb": 2526,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 18141,
+        "tx_bytes_delta": 9392
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": true,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:08:10Z",
+      "step_index": 49,
+      "scenario_phase": "cpu_stress_anomaly",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -770328,
+        "temperature_celsius": 41.5,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 85.9,
+        "user_percent": 75.6,
+        "system_percent": 10.3,
+        "thermal_throttling_active": true,
+        "frequency_cluster_little_mhz": 1800,
+        "frequency_cluster_big_mhz": 2840
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 3402,
+        "available_mb": 2742,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 17793,
+        "tx_bytes_delta": 4172
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": true,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:08:20Z",
+      "step_index": 50,
+      "scenario_phase": "wakelock_radio_drain",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -932612,
+        "temperature_celsius": 38.4,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 40.8,
+        "user_percent": 20.4,
+        "system_percent": 20.4,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2716,
+        "available_mb": 3428,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 2310858,
+        "tx_bytes_delta": 1165990
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": true,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:08:30Z",
+      "step_index": 51,
+      "scenario_phase": "wakelock_radio_drain",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -875837,
+        "temperature_celsius": 37.7,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 41.9,
+        "user_percent": 20.9,
+        "system_percent": 20.9,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2749,
+        "available_mb": 3395,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 1174632,
+        "tx_bytes_delta": 599122
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": true,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:08:40Z",
+      "step_index": 52,
+      "scenario_phase": "wakelock_radio_drain",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -894086,
+        "temperature_celsius": 38.9,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 30.0,
+        "user_percent": 15.0,
+        "system_percent": 15.0,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2777,
+        "available_mb": 3367,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 977837,
+        "tx_bytes_delta": 1184309
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": true,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:08:50Z",
+      "step_index": 53,
+      "scenario_phase": "wakelock_radio_drain",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -907507,
+        "temperature_celsius": 36.2,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 30.3,
+        "user_percent": 15.2,
+        "system_percent": 15.2,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2757,
+        "available_mb": 3387,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 1963852,
+        "tx_bytes_delta": 565080
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": true,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:09:00Z",
+      "step_index": 54,
+      "scenario_phase": "wakelock_radio_drain",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -945644,
+        "temperature_celsius": 37.5,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 26.0,
+        "user_percent": 13.0,
+        "system_percent": 13.0,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2535,
+        "available_mb": 3609,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 2097879,
+        "tx_bytes_delta": 471262
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": true,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:09:10Z",
+      "step_index": 55,
+      "scenario_phase": "wakelock_radio_drain",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -954287,
+        "temperature_celsius": 36.7,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 36.5,
+        "user_percent": 18.2,
+        "system_percent": 18.2,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2791,
+        "available_mb": 3353,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 1366351,
+        "tx_bytes_delta": 1007040
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": true,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:09:20Z",
+      "step_index": 56,
+      "scenario_phase": "wakelock_radio_drain",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -915052,
+        "temperature_celsius": 37.9,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 35.1,
+        "user_percent": 17.6,
+        "system_percent": 17.6,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2798,
+        "available_mb": 3346,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 2035366,
+        "tx_bytes_delta": 948177
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": true,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:09:30Z",
+      "step_index": 57,
+      "scenario_phase": "wakelock_radio_drain",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -882218,
+        "temperature_celsius": 36.8,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 30.4,
+        "user_percent": 15.2,
+        "system_percent": 15.2,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2660,
+        "available_mb": 3484,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 1350560,
+        "tx_bytes_delta": 678517
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": true,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:09:40Z",
+      "step_index": 58,
+      "scenario_phase": "wakelock_radio_drain",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -930679,
+        "temperature_celsius": 38.0,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 31.7,
+        "user_percent": 15.8,
+        "system_percent": 15.8,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2734,
+        "available_mb": 3410,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 1513071,
+        "tx_bytes_delta": 1188387
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": true,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:09:50Z",
+      "step_index": 59,
+      "scenario_phase": "wakelock_radio_drain",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -888584,
+        "temperature_celsius": 36.0,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 40.9,
+        "user_percent": 20.4,
+        "system_percent": 20.4,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2788,
+        "available_mb": 3356,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 1059675,
+        "tx_bytes_delta": 476819
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": true,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:10:00Z",
+      "step_index": 60,
+      "scenario_phase": "wakelock_radio_drain",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -952639,
+        "temperature_celsius": 37.5,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 34.1,
+        "user_percent": 17.1,
+        "system_percent": 17.1,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2678,
+        "available_mb": 3466,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "CELLULAR_5G",
+        "rx_bytes_delta": 994265,
+        "tx_bytes_delta": 656150
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": true,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:10:10Z",
+      "step_index": 61,
+      "scenario_phase": "wakelock_radio_drain",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -898800,
+        "temperature_celsius": 36.5,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 31.3,
+        "user_percent": 15.7,
+        "system_percent": 15.7,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2654,
+        "available_mb": 3490,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "CELLULAR_5G",
+        "rx_bytes_delta": 2132781,
+        "tx_bytes_delta": 1085743
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": true,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:10:20Z",
+      "step_index": 62,
+      "scenario_phase": "wakelock_radio_drain",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -897308,
+        "temperature_celsius": 38.0,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 34.0,
+        "user_percent": 17.0,
+        "system_percent": 17.0,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2653,
+        "available_mb": 3491,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "CELLULAR_5G",
+        "rx_bytes_delta": 2241226,
+        "tx_bytes_delta": 508618
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": true,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:10:30Z",
+      "step_index": 63,
+      "scenario_phase": "wakelock_radio_drain",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -954871,
+        "temperature_celsius": 36.4,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 41.0,
+        "user_percent": 20.5,
+        "system_percent": 20.5,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2554,
+        "available_mb": 3590,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "CELLULAR_5G",
+        "rx_bytes_delta": 2406960,
+        "tx_bytes_delta": 980097
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": true,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:10:40Z",
+      "step_index": 64,
+      "scenario_phase": "wakelock_radio_drain",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -942393,
+        "temperature_celsius": 36.8,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 27.6,
+        "user_percent": 13.8,
+        "system_percent": 13.8,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2675,
+        "available_mb": 3469,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "CELLULAR_5G",
+        "rx_bytes_delta": 1276974,
+        "tx_bytes_delta": 1120892
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": true,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:10:50Z",
+      "step_index": 65,
+      "scenario_phase": "wakelock_radio_drain",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -905968,
+        "temperature_celsius": 36.8,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 35.8,
+        "user_percent": 17.9,
+        "system_percent": 17.9,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2628,
+        "available_mb": 3516,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "CELLULAR_5G",
+        "rx_bytes_delta": 956533,
+        "tx_bytes_delta": 496781
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": true,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:11:00Z",
+      "step_index": 66,
+      "scenario_phase": "wakelock_radio_drain",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -964222,
+        "temperature_celsius": 38.5,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 35.8,
+        "user_percent": 17.9,
+        "system_percent": 17.9,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2501,
+        "available_mb": 3643,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "CELLULAR_5G",
+        "rx_bytes_delta": 1549518,
+        "tx_bytes_delta": 537174
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": true,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:11:10Z",
+      "step_index": 67,
+      "scenario_phase": "wakelock_radio_drain",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -872846,
+        "temperature_celsius": 36.8,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 35.8,
+        "user_percent": 17.9,
+        "system_percent": 17.9,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2726,
+        "available_mb": 3418,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "CELLULAR_5G",
+        "rx_bytes_delta": 2006957,
+        "tx_bytes_delta": 1139945
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": true,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:11:20Z",
+      "step_index": 68,
+      "scenario_phase": "wakelock_radio_drain",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -960138,
+        "temperature_celsius": 36.0,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 32.3,
+        "user_percent": 16.1,
+        "system_percent": 16.1,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2576,
+        "available_mb": 3568,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "CELLULAR_5G",
+        "rx_bytes_delta": 1994185,
+        "tx_bytes_delta": 437778
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": true,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:11:30Z",
+      "step_index": 69,
+      "scenario_phase": "wakelock_radio_drain",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -950590,
+        "temperature_celsius": 37.7,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 39.2,
+        "user_percent": 19.6,
+        "system_percent": 19.6,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2720,
+        "available_mb": 3424,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "CELLULAR_5G",
+        "rx_bytes_delta": 1117272,
+        "tx_bytes_delta": 443860
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": true,
+        "doze_mode_active": false
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:11:40Z",
+      "step_index": 70,
+      "scenario_phase": "security_unauthorized_ipc_flood",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -357826,
+        "temperature_celsius": 34.7,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 42.1,
+        "user_percent": 25.3,
+        "system_percent": 16.8,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2320,
+        "available_mb": 3824,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "CELLULAR_5G",
+        "rx_bytes_delta": 78911,
+        "tx_bytes_delta": 38449
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": {
+        "action": "com.sentinel.internal.EXPORTED_DIAGNOSTIC_RECEIVER",
+        "caller_uid": 10245,
+        "is_signature_matched": false,
+        "attempted_privilege": "ACCESS_DEVICE_STATS"
+      }
+    },
+    {
+      "timestamp": "2026-10-24T10:11:50Z",
+      "step_index": 71,
+      "scenario_phase": "security_unauthorized_ipc_flood",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -403264,
+        "temperature_celsius": 32.7,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 39.8,
+        "user_percent": 23.9,
+        "system_percent": 15.9,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2481,
+        "available_mb": 3663,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "CELLULAR_5G",
+        "rx_bytes_delta": 71125,
+        "tx_bytes_delta": 51692
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": {
+        "action": "com.sentinel.internal.EXPORTED_DIAGNOSTIC_RECEIVER",
+        "caller_uid": 10245,
+        "is_signature_matched": false,
+        "attempted_privilege": "ACCESS_DEVICE_STATS"
+      }
+    },
+    {
+      "timestamp": "2026-10-24T10:12:00Z",
+      "step_index": 72,
+      "scenario_phase": "security_unauthorized_ipc_flood",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -369325,
+        "temperature_celsius": 33.2,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 55.3,
+        "user_percent": 33.2,
+        "system_percent": 22.1,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2379,
+        "available_mb": 3765,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "CELLULAR_5G",
+        "rx_bytes_delta": 35514,
+        "tx_bytes_delta": 25649
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": {
+        "action": "com.sentinel.internal.EXPORTED_DIAGNOSTIC_RECEIVER",
+        "caller_uid": 10245,
+        "is_signature_matched": false,
+        "attempted_privilege": "ACCESS_DEVICE_STATS"
+      }
+    },
+    {
+      "timestamp": "2026-10-24T10:12:10Z",
+      "step_index": 73,
+      "scenario_phase": "security_unauthorized_ipc_flood",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -352236,
+        "temperature_celsius": 34.4,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 57.5,
+        "user_percent": 34.5,
+        "system_percent": 23.0,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2511,
+        "available_mb": 3633,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "CELLULAR_5G",
+        "rx_bytes_delta": 21624,
+        "tx_bytes_delta": 26754
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": {
+        "action": "com.sentinel.internal.EXPORTED_DIAGNOSTIC_RECEIVER",
+        "caller_uid": 10245,
+        "is_signature_matched": false,
+        "attempted_privilege": "ACCESS_DEVICE_STATS"
+      }
+    },
+    {
+      "timestamp": "2026-10-24T10:12:20Z",
+      "step_index": 74,
+      "scenario_phase": "security_unauthorized_ipc_flood",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -383018,
+        "temperature_celsius": 33.0,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 51.9,
+        "user_percent": 31.1,
+        "system_percent": 20.8,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2427,
+        "available_mb": 3717,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "CELLULAR_5G",
+        "rx_bytes_delta": 37485,
+        "tx_bytes_delta": 25433
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": {
+        "action": "com.sentinel.internal.EXPORTED_DIAGNOSTIC_RECEIVER",
+        "caller_uid": 10245,
+        "is_signature_matched": false,
+        "attempted_privilege": "ACCESS_DEVICE_STATS"
+      }
+    },
+    {
+      "timestamp": "2026-10-24T10:12:30Z",
+      "step_index": 75,
+      "scenario_phase": "security_unauthorized_ipc_flood",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -352842,
+        "temperature_celsius": 32.3,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 53.1,
+        "user_percent": 31.9,
+        "system_percent": 21.2,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2319,
+        "available_mb": 3825,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "CELLULAR_5G",
+        "rx_bytes_delta": 76268,
+        "tx_bytes_delta": 45847
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": {
+        "action": "com.sentinel.internal.EXPORTED_DIAGNOSTIC_RECEIVER",
+        "caller_uid": 10245,
+        "is_signature_matched": false,
+        "attempted_privilege": "ACCESS_DEVICE_STATS"
+      }
+    },
+    {
+      "timestamp": "2026-10-24T10:12:40Z",
+      "step_index": 76,
+      "scenario_phase": "security_unauthorized_ipc_flood",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -379834,
+        "temperature_celsius": 34.4,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 40.1,
+        "user_percent": 24.1,
+        "system_percent": 16.0,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2479,
+        "available_mb": 3665,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "CELLULAR_5G",
+        "rx_bytes_delta": 40000,
+        "tx_bytes_delta": 29915
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": {
+        "action": "com.sentinel.internal.EXPORTED_DIAGNOSTIC_RECEIVER",
+        "caller_uid": 10245,
+        "is_signature_matched": false,
+        "attempted_privilege": "ACCESS_DEVICE_STATS"
+      }
+    },
+    {
+      "timestamp": "2026-10-24T10:12:50Z",
+      "step_index": 77,
+      "scenario_phase": "security_unauthorized_ipc_flood",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -383887,
+        "temperature_celsius": 34.0,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 40.1,
+        "user_percent": 24.1,
+        "system_percent": 16.0,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2468,
+        "available_mb": 3676,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "CELLULAR_5G",
+        "rx_bytes_delta": 38258,
+        "tx_bytes_delta": 19549
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": {
+        "action": "com.sentinel.internal.EXPORTED_DIAGNOSTIC_RECEIVER",
+        "caller_uid": 10245,
+        "is_signature_matched": false,
+        "attempted_privilege": "ACCESS_DEVICE_STATS"
+      }
+    },
+    {
+      "timestamp": "2026-10-24T10:13:00Z",
+      "step_index": 78,
+      "scenario_phase": "security_unauthorized_ipc_flood",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -367960,
+        "temperature_celsius": 32.8,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 57.2,
+        "user_percent": 34.3,
+        "system_percent": 22.9,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2560,
+        "available_mb": 3584,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "CELLULAR_5G",
+        "rx_bytes_delta": 46193,
+        "tx_bytes_delta": 59532
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": {
+        "action": "com.sentinel.internal.EXPORTED_DIAGNOSTIC_RECEIVER",
+        "caller_uid": 10245,
+        "is_signature_matched": false,
+        "attempted_privilege": "ACCESS_DEVICE_STATS"
+      }
+    },
+    {
+      "timestamp": "2026-10-24T10:13:10Z",
+      "step_index": 79,
+      "scenario_phase": "security_unauthorized_ipc_flood",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -408192,
+        "temperature_celsius": 33.6,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 57.6,
+        "user_percent": 34.6,
+        "system_percent": 23.0,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2359,
+        "available_mb": 3785,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "CELLULAR_5G",
+        "rx_bytes_delta": 77477,
+        "tx_bytes_delta": 32118
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": {
+        "action": "com.sentinel.internal.EXPORTED_DIAGNOSTIC_RECEIVER",
+        "caller_uid": 10245,
+        "is_signature_matched": false,
+        "attempted_privilege": "ACCESS_DEVICE_STATS"
+      }
+    },
+    {
+      "timestamp": "2026-10-24T10:13:20Z",
+      "step_index": 80,
+      "scenario_phase": "security_unauthorized_ipc_flood",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -392603,
+        "temperature_celsius": 34.9,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 39.1,
+        "user_percent": 23.5,
+        "system_percent": 15.6,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2319,
+        "available_mb": 3825,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "CELLULAR_5G",
+        "rx_bytes_delta": 27104,
+        "tx_bytes_delta": 54096
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": {
+        "action": "com.sentinel.internal.EXPORTED_DIAGNOSTIC_RECEIVER",
+        "caller_uid": 10245,
+        "is_signature_matched": false,
+        "attempted_privilege": "ACCESS_DEVICE_STATS"
+      }
+    },
+    {
+      "timestamp": "2026-10-24T10:13:30Z",
+      "step_index": 81,
+      "scenario_phase": "security_unauthorized_ipc_flood",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -389443,
+        "temperature_celsius": 34.2,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 45.0,
+        "user_percent": 27.0,
+        "system_percent": 18.0,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2523,
+        "available_mb": 3621,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "CELLULAR_5G",
+        "rx_bytes_delta": 59728,
+        "tx_bytes_delta": 48516
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": {
+        "action": "com.sentinel.internal.EXPORTED_DIAGNOSTIC_RECEIVER",
+        "caller_uid": 10245,
+        "is_signature_matched": false,
+        "attempted_privilege": "ACCESS_DEVICE_STATS"
+      }
+    },
+    {
+      "timestamp": "2026-10-24T10:13:40Z",
+      "step_index": 82,
+      "scenario_phase": "security_unauthorized_ipc_flood",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -397543,
+        "temperature_celsius": 34.7,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 37.7,
+        "user_percent": 22.6,
+        "system_percent": 15.1,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2430,
+        "available_mb": 3714,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "CELLULAR_5G",
+        "rx_bytes_delta": 22908,
+        "tx_bytes_delta": 43577
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": {
+        "action": "com.sentinel.internal.EXPORTED_DIAGNOSTIC_RECEIVER",
+        "caller_uid": 10245,
+        "is_signature_matched": false,
+        "attempted_privilege": "ACCESS_DEVICE_STATS"
+      }
+    },
+    {
+      "timestamp": "2026-10-24T10:13:50Z",
+      "step_index": 83,
+      "scenario_phase": "security_unauthorized_ipc_flood",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -374713,
+        "temperature_celsius": 34.8,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 35.0,
+        "user_percent": 21.0,
+        "system_percent": 14.0,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2400,
+        "available_mb": 3744,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "CELLULAR_5G",
+        "rx_bytes_delta": 43869,
+        "tx_bytes_delta": 43265
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": {
+        "action": "com.sentinel.internal.EXPORTED_DIAGNOSTIC_RECEIVER",
+        "caller_uid": 10245,
+        "is_signature_matched": false,
+        "attempted_privilege": "ACCESS_DEVICE_STATS"
+      }
+    },
+    {
+      "timestamp": "2026-10-24T10:14:00Z",
+      "step_index": 84,
+      "scenario_phase": "security_unauthorized_ipc_flood",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -388361,
+        "temperature_celsius": 34.0,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 36.6,
+        "user_percent": 22.0,
+        "system_percent": 14.6,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2460,
+        "available_mb": 3684,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "CELLULAR_5G",
+        "rx_bytes_delta": 63475,
+        "tx_bytes_delta": 23167
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": {
+        "action": "com.sentinel.internal.EXPORTED_DIAGNOSTIC_RECEIVER",
+        "caller_uid": 10245,
+        "is_signature_matched": false,
+        "attempted_privilege": "ACCESS_DEVICE_STATS"
+      }
+    },
+    {
+      "timestamp": "2026-10-24T10:14:10Z",
+      "step_index": 85,
+      "scenario_phase": "security_unauthorized_ipc_flood",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -389731,
+        "temperature_celsius": 32.9,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 51.6,
+        "user_percent": 31.0,
+        "system_percent": 20.6,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2509,
+        "available_mb": 3635,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "CELLULAR_5G",
+        "rx_bytes_delta": 41376,
+        "tx_bytes_delta": 41371
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": {
+        "action": "com.sentinel.internal.EXPORTED_DIAGNOSTIC_RECEIVER",
+        "caller_uid": 10245,
+        "is_signature_matched": false,
+        "attempted_privilege": "ACCESS_DEVICE_STATS"
+      }
+    },
+    {
+      "timestamp": "2026-10-24T10:14:20Z",
+      "step_index": 86,
+      "scenario_phase": "security_unauthorized_ipc_flood",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -397428,
+        "temperature_celsius": 33.7,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 51.0,
+        "user_percent": 30.6,
+        "system_percent": 20.4,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2515,
+        "available_mb": 3629,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "CELLULAR_5G",
+        "rx_bytes_delta": 63576,
+        "tx_bytes_delta": 39847
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": {
+        "action": "com.sentinel.internal.EXPORTED_DIAGNOSTIC_RECEIVER",
+        "caller_uid": 10245,
+        "is_signature_matched": false,
+        "attempted_privilege": "ACCESS_DEVICE_STATS"
+      }
+    },
+    {
+      "timestamp": "2026-10-24T10:14:30Z",
+      "step_index": 87,
+      "scenario_phase": "security_unauthorized_ipc_flood",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -369662,
+        "temperature_celsius": 34.7,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 50.6,
+        "user_percent": 30.4,
+        "system_percent": 20.2,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2591,
+        "available_mb": 3553,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "CELLULAR_5G",
+        "rx_bytes_delta": 39723,
+        "tx_bytes_delta": 41612
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": {
+        "action": "com.sentinel.internal.EXPORTED_DIAGNOSTIC_RECEIVER",
+        "caller_uid": 10245,
+        "is_signature_matched": false,
+        "attempted_privilege": "ACCESS_DEVICE_STATS"
+      }
+    },
+    {
+      "timestamp": "2026-10-24T10:14:40Z",
+      "step_index": 88,
+      "scenario_phase": "security_unauthorized_ipc_flood",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -391197,
+        "temperature_celsius": 32.0,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 47.6,
+        "user_percent": 28.6,
+        "system_percent": 19.0,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2407,
+        "available_mb": 3737,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "CELLULAR_5G",
+        "rx_bytes_delta": 48173,
+        "tx_bytes_delta": 53009
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": {
+        "action": "com.sentinel.internal.EXPORTED_DIAGNOSTIC_RECEIVER",
+        "caller_uid": 10245,
+        "is_signature_matched": false,
+        "attempted_privilege": "ACCESS_DEVICE_STATS"
+      }
+    },
+    {
+      "timestamp": "2026-10-24T10:14:50Z",
+      "step_index": 89,
+      "scenario_phase": "security_unauthorized_ipc_flood",
+      "is_anomaly": 1,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -381048,
+        "temperature_celsius": 33.0,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 49.0,
+        "user_percent": 29.4,
+        "system_percent": 19.6,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2526,
+        "available_mb": 3618,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "CELLULAR_5G",
+        "rx_bytes_delta": 64277,
+        "tx_bytes_delta": 29005
+      },
+      "system_state": {
+        "screen_on": true,
+        "wakelock_held": false,
+        "doze_mode_active": false
+      },
+      "security_event": {
+        "action": "com.sentinel.internal.EXPORTED_DIAGNOSTIC_RECEIVER",
+        "caller_uid": 10245,
+        "is_signature_matched": false,
+        "attempted_privilege": "ACCESS_DEVICE_STATS"
+      }
+    },
+    {
+      "timestamp": "2026-10-24T10:15:00Z",
+      "step_index": 90,
+      "scenario_phase": "doze_deep_sleep_recovery",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -69440,
+        "temperature_celsius": 33.0,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 4.0,
+        "user_percent": 2.4,
+        "system_percent": 1.6,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2068,
+        "available_mb": 4076,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 273,
+        "tx_bytes_delta": 340
+      },
+      "system_state": {
+        "screen_on": false,
+        "wakelock_held": false,
+        "doze_mode_active": true
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:15:10Z",
+      "step_index": 91,
+      "scenario_phase": "doze_deep_sleep_recovery",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -64017,
+        "temperature_celsius": 32.8,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 4.1,
+        "user_percent": 2.5,
+        "system_percent": 1.6,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 1923,
+        "available_mb": 4221,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 581,
+        "tx_bytes_delta": 738
+      },
+      "system_state": {
+        "screen_on": false,
+        "wakelock_held": false,
+        "doze_mode_active": true
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:15:20Z",
+      "step_index": 92,
+      "scenario_phase": "doze_deep_sleep_recovery",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -68475,
+        "temperature_celsius": 32.6,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 3.2,
+        "user_percent": 1.9,
+        "system_percent": 1.3,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 1937,
+        "available_mb": 4207,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 150,
+        "tx_bytes_delta": 97
+      },
+      "system_state": {
+        "screen_on": false,
+        "wakelock_held": false,
+        "doze_mode_active": true
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:15:30Z",
+      "step_index": 93,
+      "scenario_phase": "doze_deep_sleep_recovery",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -59431,
+        "temperature_celsius": 32.4,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 3.0,
+        "user_percent": 1.8,
+        "system_percent": 1.2,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2056,
+        "available_mb": 4088,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 249,
+        "tx_bytes_delta": 516
+      },
+      "system_state": {
+        "screen_on": false,
+        "wakelock_held": false,
+        "doze_mode_active": true
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:15:40Z",
+      "step_index": 94,
+      "scenario_phase": "doze_deep_sleep_recovery",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -56137,
+        "temperature_celsius": 32.2,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 3.7,
+        "user_percent": 2.2,
+        "system_percent": 1.5,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 1949,
+        "available_mb": 4195,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 886,
+        "tx_bytes_delta": 556
+      },
+      "system_state": {
+        "screen_on": false,
+        "wakelock_held": false,
+        "doze_mode_active": true
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:15:50Z",
+      "step_index": 95,
+      "scenario_phase": "doze_deep_sleep_recovery",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -70165,
+        "temperature_celsius": 32.0,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 3.6,
+        "user_percent": 2.2,
+        "system_percent": 1.4,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2067,
+        "available_mb": 4077,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 111,
+        "tx_bytes_delta": 159
+      },
+      "system_state": {
+        "screen_on": false,
+        "wakelock_held": false,
+        "doze_mode_active": true
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:16:00Z",
+      "step_index": 96,
+      "scenario_phase": "doze_deep_sleep_recovery",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -67830,
+        "temperature_celsius": 31.8,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 5.1,
+        "user_percent": 3.1,
+        "system_percent": 2.0,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 1945,
+        "available_mb": 4199,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 1160,
+        "tx_bytes_delta": 525
+      },
+      "system_state": {
+        "screen_on": false,
+        "wakelock_held": false,
+        "doze_mode_active": true
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:16:10Z",
+      "step_index": 97,
+      "scenario_phase": "doze_deep_sleep_recovery",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -66835,
+        "temperature_celsius": 31.6,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 2.2,
+        "user_percent": 1.3,
+        "system_percent": 0.9,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 1931,
+        "available_mb": 4213,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 1034,
+        "tx_bytes_delta": 186
+      },
+      "system_state": {
+        "screen_on": false,
+        "wakelock_held": false,
+        "doze_mode_active": true
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:16:20Z",
+      "step_index": 98,
+      "scenario_phase": "doze_deep_sleep_recovery",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -57596,
+        "temperature_celsius": 31.4,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 5.2,
+        "user_percent": 3.1,
+        "system_percent": 2.1,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2043,
+        "available_mb": 4101,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 1319,
+        "tx_bytes_delta": 374
+      },
+      "system_state": {
+        "screen_on": false,
+        "wakelock_held": false,
+        "doze_mode_active": true
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:16:30Z",
+      "step_index": 99,
+      "scenario_phase": "doze_deep_sleep_recovery",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -60498,
+        "temperature_celsius": 31.2,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 5.8,
+        "user_percent": 3.5,
+        "system_percent": 2.3,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2056,
+        "available_mb": 4088,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 1133,
+        "tx_bytes_delta": 486
+      },
+      "system_state": {
+        "screen_on": false,
+        "wakelock_held": false,
+        "doze_mode_active": true
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:16:40Z",
+      "step_index": 100,
+      "scenario_phase": "doze_deep_sleep_recovery",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -57048,
+        "temperature_celsius": 31.0,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 5.3,
+        "user_percent": 3.2,
+        "system_percent": 2.1,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2014,
+        "available_mb": 4130,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 425,
+        "tx_bytes_delta": 536
+      },
+      "system_state": {
+        "screen_on": false,
+        "wakelock_held": false,
+        "doze_mode_active": true
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:16:50Z",
+      "step_index": 101,
+      "scenario_phase": "doze_deep_sleep_recovery",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -66899,
+        "temperature_celsius": 30.8,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 3.8,
+        "user_percent": 2.3,
+        "system_percent": 1.5,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2063,
+        "available_mb": 4081,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 667,
+        "tx_bytes_delta": 583
+      },
+      "system_state": {
+        "screen_on": false,
+        "wakelock_held": false,
+        "doze_mode_active": true
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:17:00Z",
+      "step_index": 102,
+      "scenario_phase": "doze_deep_sleep_recovery",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -67161,
+        "temperature_celsius": 30.6,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 3.9,
+        "user_percent": 2.3,
+        "system_percent": 1.6,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 1970,
+        "available_mb": 4174,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 1000,
+        "tx_bytes_delta": 129
+      },
+      "system_state": {
+        "screen_on": false,
+        "wakelock_held": false,
+        "doze_mode_active": true
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:17:10Z",
+      "step_index": 103,
+      "scenario_phase": "doze_deep_sleep_recovery",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -67317,
+        "temperature_celsius": 30.4,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 4.9,
+        "user_percent": 2.9,
+        "system_percent": 2.0,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 1969,
+        "available_mb": 4175,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 787,
+        "tx_bytes_delta": 377
+      },
+      "system_state": {
+        "screen_on": false,
+        "wakelock_held": false,
+        "doze_mode_active": true
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:17:20Z",
+      "step_index": 104,
+      "scenario_phase": "doze_deep_sleep_recovery",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -72360,
+        "temperature_celsius": 30.2,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 5.6,
+        "user_percent": 3.4,
+        "system_percent": 2.2,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 1935,
+        "available_mb": 4209,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 408,
+        "tx_bytes_delta": 286
+      },
+      "system_state": {
+        "screen_on": false,
+        "wakelock_held": false,
+        "doze_mode_active": true
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:17:30Z",
+      "step_index": 105,
+      "scenario_phase": "doze_deep_sleep_recovery",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -69993,
+        "temperature_celsius": 30.0,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 3.5,
+        "user_percent": 2.1,
+        "system_percent": 1.4,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2080,
+        "available_mb": 4064,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 538,
+        "tx_bytes_delta": 115
+      },
+      "system_state": {
+        "screen_on": false,
+        "wakelock_held": false,
+        "doze_mode_active": true
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:17:40Z",
+      "step_index": 106,
+      "scenario_phase": "doze_deep_sleep_recovery",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -64158,
+        "temperature_celsius": 29.8,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 3.7,
+        "user_percent": 2.2,
+        "system_percent": 1.5,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2038,
+        "available_mb": 4106,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 1054,
+        "tx_bytes_delta": 475
+      },
+      "system_state": {
+        "screen_on": false,
+        "wakelock_held": false,
+        "doze_mode_active": true
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:17:50Z",
+      "step_index": 107,
+      "scenario_phase": "doze_deep_sleep_recovery",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -61233,
+        "temperature_celsius": 29.6,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 2.2,
+        "user_percent": 1.3,
+        "system_percent": 0.9,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 1999,
+        "available_mb": 4145,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 1296,
+        "tx_bytes_delta": 762
+      },
+      "system_state": {
+        "screen_on": false,
+        "wakelock_held": false,
+        "doze_mode_active": true
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:18:00Z",
+      "step_index": 108,
+      "scenario_phase": "doze_deep_sleep_recovery",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -56136,
+        "temperature_celsius": 29.4,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 2.1,
+        "user_percent": 1.3,
+        "system_percent": 0.8,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 1997,
+        "available_mb": 4147,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 1076,
+        "tx_bytes_delta": 56
+      },
+      "system_state": {
+        "screen_on": false,
+        "wakelock_held": false,
+        "doze_mode_active": true
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:18:10Z",
+      "step_index": 109,
+      "scenario_phase": "doze_deep_sleep_recovery",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -65216,
+        "temperature_celsius": 29.2,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 5.8,
+        "user_percent": 3.5,
+        "system_percent": 2.3,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2092,
+        "available_mb": 4052,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 898,
+        "tx_bytes_delta": 479
+      },
+      "system_state": {
+        "screen_on": false,
+        "wakelock_held": false,
+        "doze_mode_active": true
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:18:20Z",
+      "step_index": 110,
+      "scenario_phase": "doze_deep_sleep_recovery",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -57105,
+        "temperature_celsius": 29.0,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 4.2,
+        "user_percent": 2.5,
+        "system_percent": 1.7,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2054,
+        "available_mb": 4090,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 551,
+        "tx_bytes_delta": 549
+      },
+      "system_state": {
+        "screen_on": false,
+        "wakelock_held": false,
+        "doze_mode_active": true
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:18:30Z",
+      "step_index": 111,
+      "scenario_phase": "doze_deep_sleep_recovery",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -60719,
+        "temperature_celsius": 28.8,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 2.9,
+        "user_percent": 1.7,
+        "system_percent": 1.2,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2024,
+        "available_mb": 4120,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 159,
+        "tx_bytes_delta": 448
+      },
+      "system_state": {
+        "screen_on": false,
+        "wakelock_held": false,
+        "doze_mode_active": true
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:18:40Z",
+      "step_index": 112,
+      "scenario_phase": "doze_deep_sleep_recovery",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -61752,
+        "temperature_celsius": 28.6,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 3.3,
+        "user_percent": 2.0,
+        "system_percent": 1.3,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2085,
+        "available_mb": 4059,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 438,
+        "tx_bytes_delta": 528
+      },
+      "system_state": {
+        "screen_on": false,
+        "wakelock_held": false,
+        "doze_mode_active": true
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:18:50Z",
+      "step_index": 113,
+      "scenario_phase": "doze_deep_sleep_recovery",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -57498,
+        "temperature_celsius": 28.4,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 5.7,
+        "user_percent": 3.4,
+        "system_percent": 2.3,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 1906,
+        "available_mb": 4238,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 906,
+        "tx_bytes_delta": 656
+      },
+      "system_state": {
+        "screen_on": false,
+        "wakelock_held": false,
+        "doze_mode_active": true
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:19:00Z",
+      "step_index": 114,
+      "scenario_phase": "doze_deep_sleep_recovery",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -74112,
+        "temperature_celsius": 28.2,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 4.3,
+        "user_percent": 2.6,
+        "system_percent": 1.7,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 1921,
+        "available_mb": 4223,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 1416,
+        "tx_bytes_delta": 488
+      },
+      "system_state": {
+        "screen_on": false,
+        "wakelock_held": false,
+        "doze_mode_active": true
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:19:10Z",
+      "step_index": 115,
+      "scenario_phase": "doze_deep_sleep_recovery",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -59872,
+        "temperature_celsius": 28.0,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 2.5,
+        "user_percent": 1.5,
+        "system_percent": 1.0,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 1946,
+        "available_mb": 4198,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 202,
+        "tx_bytes_delta": 316
+      },
+      "system_state": {
+        "screen_on": false,
+        "wakelock_held": false,
+        "doze_mode_active": true
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:19:20Z",
+      "step_index": 116,
+      "scenario_phase": "doze_deep_sleep_recovery",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -68065,
+        "temperature_celsius": 27.8,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 3.5,
+        "user_percent": 2.1,
+        "system_percent": 1.4,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 2016,
+        "available_mb": 4128,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 769,
+        "tx_bytes_delta": 395
+      },
+      "system_state": {
+        "screen_on": false,
+        "wakelock_held": false,
+        "doze_mode_active": true
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:19:30Z",
+      "step_index": 117,
+      "scenario_phase": "doze_deep_sleep_recovery",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -62577,
+        "temperature_celsius": 27.6,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 5.0,
+        "user_percent": 3.0,
+        "system_percent": 2.0,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 1971,
+        "available_mb": 4173,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 963,
+        "tx_bytes_delta": 308
+      },
+      "system_state": {
+        "screen_on": false,
+        "wakelock_held": false,
+        "doze_mode_active": true
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:19:40Z",
+      "step_index": 118,
+      "scenario_phase": "doze_deep_sleep_recovery",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -59589,
+        "temperature_celsius": 27.4,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 5.3,
+        "user_percent": 3.2,
+        "system_percent": 2.1,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 1904,
+        "available_mb": 4240,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 1204,
+        "tx_bytes_delta": 103
+      },
+      "system_state": {
+        "screen_on": false,
+        "wakelock_held": false,
+        "doze_mode_active": true
+      },
+      "security_event": null
+    },
+    {
+      "timestamp": "2026-10-24T10:19:50Z",
+      "step_index": 119,
+      "scenario_phase": "doze_deep_sleep_recovery",
+      "is_anomaly": 0,
+      "battery": {
+        "level_percent": 88.0,
+        "voltage_mv": 4119,
+        "current_ua": -63533,
+        "temperature_celsius": 27.2,
+        "is_charging": false,
+        "status": "DISCHARGING"
+      },
+      "cpu": {
+        "total_usage_percent": 6.0,
+        "user_percent": 3.6,
+        "system_percent": 2.4,
+        "thermal_throttling_active": false,
+        "frequency_cluster_little_mhz": 1200,
+        "frequency_cluster_big_mhz": 800
+      },
+      "memory": {
+        "total_mb": 6144,
+        "used_mb": 1957,
+        "available_mb": 4187,
+        "is_low_memory": false
+      },
+      "network": {
+        "type": "WIFI",
+        "rx_bytes_delta": 1431,
+        "tx_bytes_delta": 120
+      },
+      "system_state": {
+        "screen_on": false,
+        "wakelock_held": false,
+        "doze_mode_active": true
+      },
+      "security_event": null
+    }
+  ]
+}
